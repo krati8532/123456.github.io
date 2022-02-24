@@ -11,9 +11,10 @@ table, th, td {
   }
   
   h2{
-    text-align: center;
+    
     color: rgb(117, 5, 43);
     font-family:sans-serif;
+      text-align: center;
   }
   h1{
     color:antiquewhite;
